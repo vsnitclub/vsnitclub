@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsnitclub" alt="vsnitclub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsnitclub&show_icons=true&locale=en" alt="vsnitclub" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vsnitclub&show_icons=true&locale=en" alt="vsnitclub" /></p>
