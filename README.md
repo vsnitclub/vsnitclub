@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We're Vsn IT Club</h1>
 <h3 align="center">Technology enthusiasts from VS Niketan College, Kathmandu</h3>
-<img align="right" src="https://avatars.githubusercontent.com/u/114824987?s=400&u=a6919c3891f0be927d2acc7b11fffe25a1eb6bc9&v=4" alt="logo"/>
+<img align="right" width="200" src="https://avatars.githubusercontent.com/u/114824987?s=400&u=a6919c3891f0be927d2acc7b11fffe25a1eb6bc9&v=4" alt="logo"/>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsnitclub&label=Profile%20views&color=0e75b6&style=flat" alt="vsnitclub" /> </p>
 
