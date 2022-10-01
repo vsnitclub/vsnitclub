@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsnitclub)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, We're Vsn IT Club</h1>
 <h3 align="center">Technology enthusiasts from VS Niketan College, Kathmandu</h3>
 <img align="right" width="200" src="https://avatars.githubusercontent.com/u/114824987?s=400&u=a6919c3891f0be927d2acc7b11fffe25a1eb6bc9&v=4" alt="logo"/>
