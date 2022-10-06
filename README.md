@@ -6,7 +6,7 @@
 
 - 🌱 We're currently learning **HTML,CSS,JS,PY,React,Firebase,nodejs**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://fb.com/vsn_it_club" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vsn_it_club" height="30" width="40" /></a>
 <a href="https://instagram.com/vsnitclub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vsnitclub" height="30" width="40" /></a>
